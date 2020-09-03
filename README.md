@@ -1,4 +1,8 @@
 # my-notes
+приложение блокнот,
+технологии VueJS, HTML, CSS, stylus
+реализован функционал: авторизация, валидация, защита роутов, добавление/удаление заметок, подключена база firebase
+посмотреть проект: https://my-diary-3ce40.web.app/
 
 ## Project setup
 ```
@@ -7,7 +11,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run dev
 ```
 
 ### Compiles and minifies for production
